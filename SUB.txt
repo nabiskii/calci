@@ -1,0 +1,5 @@
+SUB(){
+	c=a-b;
+}
+
+this is the subtraction function
